@@ -1,0 +1,10 @@
+*.workspace
+
+.vscode
+
+/app/build
+/bin
+
+/.gradle/
+/.settings/
+/.idea/
