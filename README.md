@@ -17,4 +17,4 @@ git clone https://github.com/hir-lol/AudioBridge
 ``` bash
 gradlew assembleDebug
 ```
-После сборки **apk файл** будет находиться по пути : **app\build\outputs\apk\debug\**
+После сборки **apk файл** будет находиться по пути : app\build\outputs\apk\debug\
